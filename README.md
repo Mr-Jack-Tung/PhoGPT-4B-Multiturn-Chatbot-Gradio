@@ -1,7 +1,7 @@
-Start: 23Feb2024 - 10PM
-End: 23Feb2024 - 12PM
-
 # PhoGPT-4B-Multiturn-Chatbot-Gradio
+- Author: Mr.Jack _ Công ty www.BICweb.vn
+- Start: 23Feb2024 - 10PM
+- End: 23Feb2024 - 12PM
 
 - Model: vinai/PhoGPT-4B-Chat-v0.1
 - Type: Instruction following & Chat
