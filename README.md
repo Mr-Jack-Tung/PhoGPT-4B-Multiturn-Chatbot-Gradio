@@ -8,4 +8,4 @@
 - Training data size: 70K instructional prompt and response pairs & 290K conversations
 - Note: PROMPT_TEMPLATE = "### Câu hỏi: {instruction}\n### Trả lời:"
 
-
+[!alt](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_Multiturn_chatbot_23Feb2024.jpg)
