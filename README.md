@@ -3,6 +3,7 @@
 - Start: 23Feb2024 - 10PM
 - End: 23Feb2024 - 12PM
 
+## Model
 - Model: vinai/PhoGPT-4B-Chat-v0.1
 - Type: Instruction following & Chat
 - Model Size: 3.7B
