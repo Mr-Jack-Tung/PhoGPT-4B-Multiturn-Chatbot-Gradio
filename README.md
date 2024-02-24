@@ -45,13 +45,13 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 
 ### Mở rộng:
 - (Self-Instruct) Aligning LM with Self Generated Instructions:
-  - https://arxiv.org/abs/2212.10560 ;
-  - https://github.com/yizhongw/self-instruct
+  - Paper: https://arxiv.org/abs/2212.10560 ;
+  - Github: https://github.com/yizhongw/self-instruct
 - (SELF-RAG) Learning to Retrieve, Generate and Critique through Self-reflection:
-  - https://arxiv.org/abs/2310.11511 ;
-  - https://github.com/AkariAsai/self-rag
+  - Paper: https://arxiv.org/abs/2310.11511 ;
+  - Github: https://github.com/AkariAsai/self-rag
 - (CRAG) Corrective Retrieval Augmented Generation:
-  - https://arxiv.org/abs/2401.15884 ;
-  - https://github.com/HuskyInSalt/CRAG
+  - Paper: https://arxiv.org/abs/2401.15884 ;
+  - Github: https://github.com/HuskyInSalt/CRAG
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_Multiturn_chatbot_23Feb2024.jpg)
