@@ -49,14 +49,17 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 - F1 score metric (in Van Rijsbergen's book 1992 ???):
   - https://huggingface.co/spaces/evaluate-metric/f1
   - https://en.wikipedia.org/wiki/F-score
+  - Đánh giá các mô hình học máy: https://viblo.asia/p/danh-gia-cac-mo-hinh-hoc-may-RnB5pp4D5PG
 - BLEU Metric (bilingual evaluation understudy) - 2002:
   - Bleu: a Method for Automatic Evaluation of Machine Translation (Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002): https://aclanthology.org/P02-1040/
   - https://huggingface.co/spaces/evaluate-metric/bleu
   - https://en.wikipedia.org/wiki/BLEU
+  - Tìm hiểu về BLEU và WER - Metric cho 1 số tác vụ trong NLP: https://viblo.asia/p/tim-hieu-ve-bleu-va-wer-metric-cho-1-so-tac-vu-trong-nlp-Eb85oA16Z2G#_4-reference-8
 - Rouge metric (Recall-Oriented Understudy for Gisting Evaluation) - 2004:
   - ROUGE: A Package for Automatic Evaluation of Summaries (Chin-Yew Lin. 2004): https://aclanthology.org/W04-1013/
   - https://huggingface.co/spaces/evaluate-metric/rouge
   - https://en.wikipedia.org/wiki/ROUGE_(metric)
+  - 2 phút để hiểu cách tính ROUGE metric: https://viblo.asia/p/2-phut-de-hieu-cach-tinh-rouge-metric-5OXLAPEBJGr
 - ROUGE 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks - 2018:
   - Paper: https://arxiv.org/abs/1803.01937
 - (Self-Instruct) Aligning LM with Self Generated Instructions - 2022:
