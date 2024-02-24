@@ -63,6 +63,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 - ROUGE 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks - 2018:
   - Paper: https://arxiv.org/abs/1803.01937
   - Github: https://github.com/kavgan/ROUGE-2.0
+  - https://kavita-ganesan.com/rouge2-usage-documentation/
 - (Self-Instruct) Aligning LM with Self Generated Instructions - 2022:
   - Paper: https://arxiv.org/abs/2212.10560 ;
   - Github: https://github.com/yizhongw/self-instruct
