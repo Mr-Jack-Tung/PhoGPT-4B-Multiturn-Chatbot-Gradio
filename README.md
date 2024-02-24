@@ -34,9 +34,9 @@ domain-specific websites such as medical journals and universities;
 We then fine-tune the base pre-trained PhoGPT-4B using a dataset consisting of 70K instructional prompts and their responses, along with an additional 290K conversations, constructed by concate- nating the following sources:
 - 500 instructional prompt and response pairs for poem writing, 500 for essay writing, 500 for spelling correction, 500 for single-document summarization and 1000 for context-based question answering;
 - 67K instructional prompt and response pairs from the Vietnamese subset of Bactrian-X (Li et al., 2023);
-- 20K Vietnamese-translated ChatAlpaca conversations;
-- 40K Vietnamese-translated ShareGPT conversations (without code and mathematics);
-- 230K Vietnamese-translated UltraChat conversations (Ding et al., 2023);
+- 20K Vietnamese-translated ChatAlpaca conversations; https://github.com/cascip/ChatAlpaca
+- 40K Vietnamese-translated ShareGPT conversations (without code and mathematics); https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered
+- 230K Vietnamese-translated UltraChat conversations (Ding et al., 2023); https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k
 
 The resulting fine-tuned model is named PhoGPT-4B-Chat.
 
