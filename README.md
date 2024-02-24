@@ -1,6 +1,6 @@
 # PhoGPT-4B-Multiturn-Chatbot-Gradio
 - Author: Mr.Jack _ Công ty www.BICweb.vn
-- Start: 23Feb2024 - 10PM
+- Start: 23Feb2024 - 09PM
 - End: 23Feb2024 - 12PM
 
 ## Model:
