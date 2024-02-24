@@ -44,7 +44,7 @@ The resulting fine-tuned model is named PhoGPT-4B-Chat.
 Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nhẹ nhàng, chỉ cần dùng Colab-T5 là dùng được, mà chỉ cần chạy có 50% nghĩa là khoảng 7GB GPU thôi nhé.
 
 ### Tham khảo mở rộng:
-- F1 score metric:
+- F1 score metric (in Van Rijsbergen's book 1992 ???):
   - https://huggingface.co/spaces/evaluate-metric/f1
   - https://en.wikipedia.org/wiki/F-score
 - Rouge metric:
