@@ -68,3 +68,5 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 - (CRAG) Corrective Retrieval Augmented Generation - 2024:
   - Paper: https://arxiv.org/abs/2401.15884 ;
   - Github: https://github.com/HuskyInSalt/CRAG
+
+![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/crag_method_overview.jpg)
