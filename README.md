@@ -14,7 +14,9 @@
 
 
 ### PhoGPT: Generative Pre-training for Vietnamese
-https://arxiv.org/abs/2311.02945
+- Paper: https://arxiv.org/abs/2311.02945
+- Github: https://github.com/VinAIResearch/PhoGPT
+- Huggingface: https://huggingface.co/vinai/PhoGPT-4B-Chat-v0.1
 
 ### PHOGPT-4B: MODEL ARCHITECTURE AND PRE-TRAINING
 PhoGPT-4B is a Transformer decoder-based model (Brown et al., 2020; Vaswani et al., 2017), which incorporates (Triton) flash attention (Dao et al., 2022) and ALiBi (Press et al., 2022) for context length extrapolation. We train a Vietnamese-specific byte-level BPE tokenizer with a vocabulary of 20480 tokens using the “tokenizers” library. In addition, we use a “max_seq_len” of 8192, “d_model” of 3072, “n_heads” of 24 and “n_layers” of 32, resulting in a model size of 3.7B param- eters (∼4B). Utilizing the Mosaicml “llm-foundry” library (Team, 2023), we pre-train PhoGPT-4B from scratch on a 482GB deduplicated and cleaned pre-training corpus of Vietnamese texts (∼102B tokens). Our pre-training Vietnamese corpus consists of:
