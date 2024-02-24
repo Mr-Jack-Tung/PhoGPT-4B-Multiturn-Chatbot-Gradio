@@ -49,11 +49,11 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 - F1 score metric (in Van Rijsbergen's book 1992 ???):
   - https://huggingface.co/spaces/evaluate-metric/f1
   - https://en.wikipedia.org/wiki/F-score
-- Bleu Metric (2002):
+- BLEU Metric (bilingual evaluation understudy) - 2002:
   - Bleu: a Method for Automatic Evaluation of Machine Translation (Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002): https://aclanthology.org/P02-1040/
   - https://huggingface.co/spaces/evaluate-metric/bleu
   - https://en.wikipedia.org/wiki/BLEU
-- Rouge metric (2004):
+- Rouge metric (Recall-Oriented Understudy for Gisting Evaluation) - 2004:
   - ROUGE: A Package for Automatic Evaluation of Summaries (Chin-Yew Lin. 2004): https://aclanthology.org/W04-1013/
   - https://huggingface.co/spaces/evaluate-metric/rouge
   - https://en.wikipedia.org/wiki/ROUGE_(metric)
