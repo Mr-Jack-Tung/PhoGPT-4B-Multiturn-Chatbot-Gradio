@@ -68,7 +68,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 - (SELF-RAG) Learning to Retrieve, Generate and Critique through Self-reflection - 2023:
   - Paper: https://arxiv.org/abs/2310.11511 ;
   - Github: https://github.com/AkariAsai/self-rag
-- (SPIN) Self-Play Fine-Tuning - 2024:
+- (SPIN) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models - 2024:
   - Paper: https://arxiv.org/abs/2401.01335
   - Github: https://github.com/uclaml/SPIN
   - Website: https://uclaml.github.io/SPIN/
