@@ -49,7 +49,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 - F1 score metric (in Van Rijsbergen's book 1992 ???):
   - https://huggingface.co/spaces/evaluate-metric/f1
   - https://en.wikipedia.org/wiki/F-score
-  - Đánh giá các mô hình học máy: https://viblo.asia/p/danh-gia-cac-mo-hinh-hoc-may-RnB5pp4D5PG
+  - Đánh giá các mô hình học máy: https://viblo.asia/p/danh-gia-cac-mo-hinh-hoc-may-RnB5pp4D5PG [...mô hình phân loại (classification), mô hình hồi quy (regression) và xếp hạng (Ranking)]
 - BLEU Metric (bilingual evaluation understudy) - 2002:
   - Bleu: a Method for Automatic Evaluation of Machine Translation (Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002): https://aclanthology.org/P02-1040/
   - https://huggingface.co/spaces/evaluate-metric/bleu
