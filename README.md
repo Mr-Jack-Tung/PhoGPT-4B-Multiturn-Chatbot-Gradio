@@ -44,8 +44,8 @@ The resulting fine-tuned model is named PhoGPT-4B-Chat.
 Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nhẹ nhàng, chỉ cần dùng Colab-T5 là dùng được, mà chỉ cần chạy có 50% nghĩa là khoảng 7GB GPU thôi nhé.
 
 ### Mở rộng:
-- Self-instruct: https://arxiv.org/abs/2212.10560 ; https://github.com/yizhongw/self-instruct
-- Self-rag: https://arxiv.org/abs/2310.11511 ; https://github.com/AkariAsai/self-rag
-- CRAG: https://arxiv.org/abs/2401.15884 ; https://github.com/HuskyInSalt/CRAG
+- (Self-Instruct) Aligning LM with Self Generated Instructions: https://arxiv.org/abs/2212.10560 ; https://github.com/yizhongw/self-instruct
+- (SELF-RAG) Learning to Retrieve, Generate and Critique through Self-reflection: https://arxiv.org/abs/2310.11511 ; https://github.com/AkariAsai/self-rag
+- (CRAG) Corrective Retrieval Augmented Generation: https://arxiv.org/abs/2401.15884 ; https://github.com/HuskyInSalt/CRAG
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_Multiturn_chatbot_23Feb2024.jpg)
