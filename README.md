@@ -62,6 +62,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
   - 2 phút để hiểu cách tính ROUGE metric: https://viblo.asia/p/2-phut-de-hieu-cach-tinh-rouge-metric-5OXLAPEBJGr
 - ROUGE 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks - 2018:
   - Paper: https://arxiv.org/abs/1803.01937
+  - Github: https://github.com/kavgan/ROUGE-2.0
 - (Self-Instruct) Aligning LM with Self Generated Instructions - 2022:
   - Paper: https://arxiv.org/abs/2212.10560 ;
   - Github: https://github.com/yizhongw/self-instruct
