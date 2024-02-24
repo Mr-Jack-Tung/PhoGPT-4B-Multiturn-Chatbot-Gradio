@@ -57,14 +57,14 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
   - ROUGE: A Package for Automatic Evaluation of Summaries (Chin-Yew Lin. 2004): https://aclanthology.org/W04-1013/
   - https://huggingface.co/spaces/evaluate-metric/rouge
   - https://en.wikipedia.org/wiki/ROUGE_(metric)
-- ROUGE 2.0 (2018): Updated and Improved Measures for Evaluation of Summarization Tasks:
+- ROUGE 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks - 2018:
   - Paper: https://arxiv.org/abs/1803.01937
-- (Self-Instruct) Aligning LM with Self Generated Instructions:
+- (Self-Instruct) Aligning LM with Self Generated Instructions - 2022:
   - Paper: https://arxiv.org/abs/2212.10560 ;
   - Github: https://github.com/yizhongw/self-instruct
-- (SELF-RAG) Learning to Retrieve, Generate and Critique through Self-reflection:
+- (SELF-RAG) Learning to Retrieve, Generate and Critique through Self-reflection - 2023:
   - Paper: https://arxiv.org/abs/2310.11511 ;
   - Github: https://github.com/AkariAsai/self-rag
-- (CRAG) Corrective Retrieval Augmented Generation:
+- (CRAG) Corrective Retrieval Augmented Generation - 2024:
   - Paper: https://arxiv.org/abs/2401.15884 ;
   - Github: https://github.com/HuskyInSalt/CRAG
