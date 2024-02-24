@@ -43,7 +43,7 @@ The resulting fine-tuned model is named PhoGPT-4B-Chat.
 ## Note:
 Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nhẹ nhàng, chỉ cần dùng Colab-T5 là dùng được, mà chỉ cần chạy có 50% nghĩa là khoảng 7GB GPU thôi nhé.
 
-### Mở rộng:
+### Tham khảo mở rộng:
 - (Self-Instruct) Aligning LM with Self Generated Instructions:
   - Paper: https://arxiv.org/abs/2212.10560 ;
   - Github: https://github.com/yizhongw/self-instruct
