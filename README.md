@@ -44,6 +44,12 @@ The resulting fine-tuned model is named PhoGPT-4B-Chat.
 Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nhẹ nhàng, chỉ cần dùng Colab-T5 là dùng được, mà chỉ cần chạy có 50% nghĩa là khoảng 7GB GPU thôi nhé.
 
 ### Tham khảo mở rộng:
+- Rouge metric:
+  - ROUGE: A Package for Automatic Evaluation of Summaries (Chin-Yew Lin. 2004): https://aclanthology.org/W04-1013/
+  - https://huggingface.co/spaces/evaluate-metric/rouge
+- Bleu Metric:
+  - Bleu: a Method for Automatic Evaluation of Machine Translation (Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002): https://aclanthology.org/P02-1040/
+  - https://huggingface.co/spaces/evaluate-metric/bleu
 - (Self-Instruct) Aligning LM with Self Generated Instructions:
   - Paper: https://arxiv.org/abs/2212.10560 ;
   - Github: https://github.com/yizhongw/self-instruct
