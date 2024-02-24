@@ -26,9 +26,9 @@ PhoGPT-4B is a Transformer decoder-based model (Brown et al., 2020; Vaswani et a
 domain-specific websites such as medical journals and universities;
 - 3GB of publicly available books spanning a range of genres;
 - 12GB of legal data crawled from thuvienphapluat.vn and lawnet.vn;
-- a 40GB variant of the "binhvq" news corpus (version 21/05/2021);
-- an 88GB variant of the Vietnamese OSCAR-2301 subset;
-- a 336GB variant of the Vietnamese mC4 subset.
+- a 40GB variant of the "binhvq" news corpus (version 21/05/2021); https://github.com/binhvq/news-corpus
+- an 88GB variant of the Vietnamese OSCAR-2301 subset; https://huggingface.co/datasets/oscar-corpus/OSCAR-2301
+- a 336GB variant of the Vietnamese mC4 subset. https://huggingface.co/datasets/allenai/c4/tree/mC4_3.1.0
 
 ### PHOGPT-4B-CHAT: SUPERVISED FINE-TUNING
 We then fine-tune the base pre-trained PhoGPT-4B using a dataset consisting of 70K instructional prompts and their responses, along with an additional 290K conversations, constructed by concate- nating the following sources:
