@@ -70,7 +70,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
   - Paper: https://arxiv.org/abs/1803.01937
   - Github: https://github.com/kavgan/ROUGE-2.0
   - https://kavita-ganesan.com/rouge2-usage-documentation/
-- ReAct: Synergizing Reasoning and Acting in Language Models: 
+- ReAct: Synergizing Reasoning and Acting in Language Models - 2022: 
   - Paper: https://arxiv.org/abs/2210.03629
   - Github: https://github.com/ysymyth/ReAct
 - (Self-Instruct) Aligning LM with Self Generated Instructions - 2022:
