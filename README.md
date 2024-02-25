@@ -70,6 +70,9 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
   - Paper: https://arxiv.org/abs/1803.01937
   - Github: https://github.com/kavgan/ROUGE-2.0
   - https://kavita-ganesan.com/rouge2-usage-documentation/
+- ReAct: Synergizing Reasoning and Acting in Language Models: 
+  - Paper: https://arxiv.org/abs/2210.03629
+  - Github: https://github.com/ysymyth/ReAct
 - (Self-Instruct) Aligning LM with Self Generated Instructions - 2022:
   - Paper: https://arxiv.org/abs/2212.10560 ;
   - Github: https://github.com/yizhongw/self-instruct
@@ -83,5 +86,6 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 - (CRAG) Corrective Retrieval Augmented Generation - 2024:
   - Paper: https://arxiv.org/abs/2401.15884 ;
   - Github: https://github.com/HuskyInSalt/CRAG
+
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/crag_method_overview.jpg)
