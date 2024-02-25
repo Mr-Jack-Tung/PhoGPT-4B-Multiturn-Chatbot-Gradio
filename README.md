@@ -65,6 +65,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
   - https://huggingface.co/spaces/evaluate-metric/rouge
   - https://en.wikipedia.org/wiki/ROUGE_(metric)
   - 2 phút để hiểu cách tính ROUGE metric: https://viblo.asia/p/2-phut-de-hieu-cach-tinh-rouge-metric-5OXLAPEBJGr
+- ROUGE-WE (Ng & Abrecht, 2015) - Better Summarization Evaluation with Word Embeddings for ROUGE: https://arxiv.org/abs/1508.06034
 - ROUGE 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks - 2018:
   - Paper: https://arxiv.org/abs/1803.01937
   - Github: https://github.com/kavgan/ROUGE-2.0
