@@ -50,6 +50,8 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
   - https://huggingface.co/spaces/evaluate-metric/f1
   - https://en.wikipedia.org/wiki/F-score
   - https://en.wikipedia.org/wiki/Precision_and_recall
+  - https://en.wikipedia.org/wiki/Information_theory
+  - https://en.wikipedia.org/wiki/Entropy_(information_theory)
   - Đánh giá các mô hình học máy: https://viblo.asia/p/danh-gia-cac-mo-hinh-hoc-may-RnB5pp4D5PG [...mô hình phân loại (classification), mô hình hồi quy (regression) và xếp hạng (Ranking)]
   - Đánh giá mô hình phân loại trong ML: https://phamdinhkhanh.github.io/2020/08/13/ModelMetric.html
 - BLEU Metric (bilingual evaluation understudy) - 2002:
