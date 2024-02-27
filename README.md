@@ -55,6 +55,10 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
   - https://en.wikipedia.org/wiki/Entropy_(information_theory)
   - Đánh giá các mô hình học máy: https://viblo.asia/p/danh-gia-cac-mo-hinh-hoc-may-RnB5pp4D5PG [...mô hình phân loại (classification), mô hình hồi quy (regression) và xếp hạng (Ranking)]
   - Đánh giá mô hình phân loại trong ML: https://phamdinhkhanh.github.io/2020/08/13/ModelMetric.html
+- Okapi BM25 (= IDF * ((k + 1) * tf) / (k * (1.0 - b + b * (|d|/avgDl)) + tf)):
+  - https://en.wikipedia.org/wiki/Okapi_BM25
+  - https://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/
+  - Áp dụng Okapi BM25 vào tìm kiếm thông tin dựa trên Tiếng Việt: https://ndquy.github.io/posts/okapi-bm-25-tim-kiem-tieng-viet/
 - BLEU Metric (bilingual evaluation understudy) - 2002:
   - Bleu: a Method for Automatic Evaluation of Machine Translation (Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002): https://aclanthology.org/P02-1040/
   - https://huggingface.co/spaces/evaluate-metric/bleu
