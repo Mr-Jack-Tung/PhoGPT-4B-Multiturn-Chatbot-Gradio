@@ -45,7 +45,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_Multiturn_chatbot_23Feb2024.jpg)
 
-Kết hợp Colab, Gradio và langchain RAG, chỉ cần cho em nó đủ thông tin là cũng ra gì và này nọ phết đấy ^^
+Kết hợp Colab, Gradio và Langchain RAG, chỉ cần cho em nó đủ thông tin là cũng ra gì và này nọ phết đấy ^^
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_with_RAG.jpg)
 
