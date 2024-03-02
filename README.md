@@ -45,7 +45,7 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_Multiturn_chatbot_23Feb2024.jpg)
 
-Kết hợp Colab, Gradio và Langchain RAG, chỉ cần cho em nó đủ thông tin là cũng ra gì và này nọ phết đấy ^^
+Kết hợp Colab, Gradio và Langchain RAG, hóa ra là RAG cũng khá đơn giản, chỉ cần lôi dữ liệu ra và nhồi vào phần câu hỏi (few-shot prompting) là em nó tự hiểu được cần phải làm gì tiếp theo rồi, em nó mà đủ thông tin là cũng ra gì và này nọ phết đấy ^^
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_with_RAG.jpg)
 
