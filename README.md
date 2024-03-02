@@ -47,6 +47,10 @@ Kết hợp Colab và Gradio cũng rất tuyệt ^.^ Cấu hình chạy cũng nh
 
 Kết hợp Colab, Gradio và Langchain RAG, hóa ra là RAG cũng khá đơn giản, chỉ cần lôi dữ liệu ra và nhồi vào phần câu hỏi (few-shot prompting) là em nó tự hiểu được cần phải làm gì tiếp theo rồi, em nó mà đủ thông tin là cũng ra gì và này nọ phết đấy ^^
 
+- https://python.langchain.com/docs/expression_language/cookbook/retrieval
+- https://python.langchain.com/docs/modules/data_connection/retrievers/parent_document_retriever
+- https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/5_Levels_Of_Text_Splitting.ipynb
+
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_with_RAG.jpg)
 
 
