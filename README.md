@@ -53,6 +53,10 @@ Kết hợp Colab, Gradio và Langchain RAG, hóa ra là RAG cũng khá đơn gi
 
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_4B_Chat_v01_Gradio_with_RAG.jpg)
 
+Khả năng đặt câu hỏi của em nó cũng khá ấn tượng ^^
+
+![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_Ask-questions-01.jpg)
+![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_Ask-questions-02.jpg)
 
 ### Tham khảo mở rộng:
 - F1 score metric (in Van Rijsbergen's book 1992 ???):
