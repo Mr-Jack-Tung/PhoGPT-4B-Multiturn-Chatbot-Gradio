@@ -55,7 +55,8 @@ Kết hợp Colab, Gradio và Langchain RAG, hóa ra là RAG cũng khá đơn gi
 
 Khả năng đặt câu hỏi của em nó cũng khá ấn tượng ^^
 
-{"Intel lên kế hoạch xây dựng nhà máy sản xuất chip hoàn toàn tự động bằng AI và robot"}\n
+{"Intel lên kế hoạch xây dựng nhà máy sản xuất chip hoàn toàn tự động bằng AI và robot"}
+
 Hỏi: Hãy đặt 10 câu hỏi để tìm hiểu và làm rõ nội dung trên nhé.
 ![alt text](https://github.com/Mr-Jack-Tung/PhoGPT-4B-Multiturn-Chatbot-Gradio/blob/main/PhoGPT_Ask-questions-01.jpg)
 
